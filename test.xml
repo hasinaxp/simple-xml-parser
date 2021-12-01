@@ -1,0 +1,8 @@
+<address>
+	<name>
+		<first-name>Spandan</first-name>
+		<last-name>Mondal</last-name>
+	</name>
+	<phone type="mobile" country-code="+91">8371919713</phone>
+	<img src="./myImage.jpg" />
+</address>
